@@ -2,6 +2,7 @@
 
 This project is our Hackathon project(DuHex3.0) done by the contribution of four group members
 
+# Project Usage And Description
 
 ## cv2 (OpenCV):
 
