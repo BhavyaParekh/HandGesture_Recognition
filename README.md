@@ -1,5 +1,8 @@
 # HandGesture_Recognition
 
+This project is our Hackathon project(DuHex3.0) done by the contribution of four group members
+
+
 ## cv2 (OpenCV):
 
 Description: OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library.
